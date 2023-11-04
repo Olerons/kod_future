@@ -4,5 +4,4 @@ for i in range(5):
 
 print('конец')
 
-if i == 4:
-    print(123)
+
