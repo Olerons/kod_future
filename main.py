@@ -1,8 +1,14 @@
 print('Это цикл')
 for i in range(5):
     print(i)
-
 print('конец')
 
-if i == 4:
-    print(123)
+print('Это цикл')
+print('конец')
+
+print('Это цикл')
+for i in range(5):
+    print(i)
+
+print('конец')
+print(123)
